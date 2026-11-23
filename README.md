@@ -19,6 +19,7 @@ navigate.
 | Linked Lists | Linked list problems |
 | Binary Search | Binary search problems |
 | Hash Tables | Hash map and set problems |
+| Math | Arithmetic/number theory problems |
 
 ## Solutions
 
