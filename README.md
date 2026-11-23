@@ -12,15 +12,6 @@ to practice, learn, and improve my problem-solving skills.
 Solutions are organized by topic to make them easier to
 navigate.
 
-| Topic | Description |
-|---|---|
-| Arrays | Array-based problems |
-| Strings | String manipulation problems |
-| Linked Lists | Linked list problems |
-| Binary Search | Binary search problems |
-| Hash Tables | Hash map and set problems |
-| Math | Arithmetic/number theory problems |
-
 ## Solutions
 
 Each solution includes:
